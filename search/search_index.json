@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Hello World!","title":"Home"},{"location":"#hello-world","text":"","title":"Hello World!"},{"location":"about/","text":"About world","title":"About"},{"location":"about/#about-world","text":"","title":"About world"}]}
